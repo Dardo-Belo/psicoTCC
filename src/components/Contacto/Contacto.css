@@ -1,0 +1,21 @@
+.formulario {
+    margin: 5rem;
+    padding: 1rem;
+    width: 50%;
+    background-color: #fcc8fc;
+    border-radius: 15px;
+    border: solid rgb(227, 18, 81);
+   }
+.formulario1{
+  margin: 3rem;
+  font-size: x-large;
+}
+
+.consulta{
+  height: 10rem;
+  display: flexbox;
+  align-content: initial;
+}
+.Form1{
+  height: 22rem;
+}

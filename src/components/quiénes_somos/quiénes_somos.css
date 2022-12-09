@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.text{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.misión {
+margin: 2rem;
+padding: 2rem;
+border: solid red;
+background-color: rgb(240, 101, 168);
+text-align: justify;
+
+
+width: 50%;
+}
+
+.footer{
+    height: 40rem;
+}

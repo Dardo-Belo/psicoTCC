@@ -1,0 +1,35 @@
+.pie {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    padding: 5px;
+    font-size: 2rem;
+    opacity: 0.87;
+}
+.pie p{
+    font-size: 20px;
+  
+}
+.linkdelpie {
+    display: flex;
+    flex-direction: row;
+}
+
+/* logo y links----------- */
+.logoimg {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.logo {
+    padding: 5px;
+    border-radius: 5px;
+    border: solid black;
+}
+@media(max-width:366px){
+    .pie {
+        align-items: normal;
+}
+}

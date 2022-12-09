@@ -1,0 +1,21 @@
+.Navbar{
+    height: 5rem;
+}
+
+.text-TCC{
+    font-size: 30px;
+}
+
+.text-navbar{
+    font-size: 25px;
+}
+
+.text-drop{
+    font-size: 20px;
+}
+
+.libros{
+    color: rgb(206, 13, 55);
+    display: flexbox;
+    justify-content: end;
+}
