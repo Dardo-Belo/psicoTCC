@@ -3,9 +3,9 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    height: 60px;
+    height: 70px;
     padding: 5px;
-    font-size: 2rem;
+    font-size: 0.5rem;
     opacity: 0.87;
 }
 .linkdelpie {
@@ -24,8 +24,10 @@
     border-radius: 5px;
     border: solid black;
 }
-@media(max-width:366px){
+@media(min-width:366px){
     .pie {
-        align-items: normal;
+        
+        display: flex;
+        flex-direction: row;
 }
 }

@@ -1,14 +1,14 @@
 .titulo{
-font-size: 3rem;
+font-size: 1rem;
 color:rgb(220, 50, 20)
 }
 
 .p{
- font-size: 3rem; 
+ font-size: 1rem; 
  color: rgb(25, 218, 183);
 };
 
-@media (min-width: 768px) {
-    .titulo {
+@media (max-width: 366px) {
+    .titulo p{
         font-size: 0.5rem;
     }};
