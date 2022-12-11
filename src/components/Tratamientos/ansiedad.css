@@ -10,7 +10,7 @@ display: flex;
 justify-content: center;
 }
 
-p{
+.p{
 font-size: 25px;
 font-display: justify;
 margin: 3rem;
@@ -20,7 +20,7 @@ padding: 1rem;
 .h1{
     font-size: 4rem;
 }
-h2{
+.h2{
     display: flex;
     justify-content: center;
 }

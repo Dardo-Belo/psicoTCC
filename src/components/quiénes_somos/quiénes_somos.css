@@ -1,12 +1,14 @@
 .header{
     display: flex;
     justify-content: center;
+    line-height: 1.6;
     
 }
 
 .text{
     display: flex;
     flex-direction: row;
+
    
 
 }
