@@ -8,7 +8,7 @@ color:rgb(249, 249, 249);
  color: rgb(25, 218, 183);
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1024px) {
     .titulo {
         font-size: 6rem;
        
@@ -16,6 +16,18 @@ color:rgb(249, 249, 249);
     }
     .p{
         font-size: 4rem;
+      
+    }
+
+}
+@media (min-width: 600px) {
+    .titulo {
+        font-size: 3rem;
+       
+
+    }
+    .p{
+        font-size: 2rem;
       
     }
 
