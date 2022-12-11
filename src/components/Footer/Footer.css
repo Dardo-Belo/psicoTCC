@@ -24,7 +24,7 @@
     border-radius: 5px;
     border: solid black;
 }
-@media(min-width:366px){
+@media(max-width:366px){
     .pie {
         
         display: flex;
